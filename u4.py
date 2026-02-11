@@ -84,5 +84,3 @@ while conti == "yes":
     conti = input("you wanna keep going or nah: ")
 cost=sum(price)
 print ("cart:",cart, "price:",cost )
-
-
